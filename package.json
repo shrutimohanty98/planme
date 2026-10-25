@@ -1,0 +1,1 @@
+{"name":"planme","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","start":"node scripts/dev.mjs","test":"node --test server/*.test.mjs"},"engines":{"node":">=22"}}
